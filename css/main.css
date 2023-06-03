@@ -1,0 +1,39 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(/photo/index.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#con-1{
+    margin-top: 10%;
+}
+.form-control{
+    margin: 10px;
+    background: transparent;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    
+} 
+
+#con-2{
+    background-color: rgb(0, 162, 255);
+    border-radius: 5px;
+}
+
+#search{
+    background-color: aqua;
+    border: solid aqua;
+}
+
+#login{
+    background-image: url(/photo/login.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
